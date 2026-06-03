@@ -1,0 +1,65 @@
+Name,Category,Organiser,Eligibility (Gen),What it is / Outcome,PRIMARY CATEGORY,DIFFICULTY TIER,CAREER PATH TAG,WHEN TO ATTEMPT
+TCS NQT,Corporate,TCS,"B.Tech/BE, 60%/6 CGPA, no backlogs",National Qualifier Test; Ninja/Digital/Prime bands; ₹3.6L–₹9L CTC,Corporate Employability Test,Beginner,Software Engineer,Final year
+Infosys InfyTQ,Corporate,Infosys,"B.Tech, 65%/6.5 CGPA",Certification-based hiring platform; SE/Power Programmer/Specialist tracks,Corporate Employability Test,Intermediate,Software Engineer,3rd year
+Wipro NLTH,Corporate,Wipro,"B.Tech, 60%, no backlogs",Elite National Talent Hunt; aptitude + coding; ₹3.5–4.5 LPA,Corporate Employability Test,Beginner,Software Engineer,Final year
+Cognizant GenC / GenC Next,Corporate,Cognizant,"B.Tech, 60%",Mass hiring test; GenC Next for higher performers; aptitude + coding,Corporate Employability Test,Beginner,Software Engineer,Final year
+Accenture Hiring Challenge,Corporate,Accenture,"B.Tech, 60%",Cognitive + coding test; shortlists for ASE / System Associate roles,Corporate Employability Test,Intermediate,Software Engineer,Final year
+HCL TechBee / LEAP,Corporate,HCLTech,"B.Tech, 60%",Aptitude + technical test; entry-level tech roles,Corporate Employability Test,Beginner,Software Engineer,Final year
+Tech Mahindra SMART Hiring,Corporate,Tech Mahindra,"B.Tech, 60%",Online test + coding; recruits for software engineer roles,Corporate Employability Test,Beginner,Software Engineer,Final year
+Capgemini Game Changer,Corporate,Capgemini,"B.Tech, 60%",Cocubes-based test; aptitude + pseudocode; ₹4–6 LPA,Corporate Employability Test,Beginner,Software Engineer,Final year
+L&T Infotech (LTIMindtree) NTA,Corporate,LTIMindtree,"B.Tech, 60%",National hiring test for software developer roles,Corporate Employability Test,Beginner,Software Engineer,Final year
+Mphasis Next-Gen Hiring,Corporate,Mphasis,"B.Tech, 60%",Online aptitude + technical test; entry-level engineer,Corporate Employability Test,Beginner,Software Engineer,Final year
+Hexaware Hiring Test,Corporate,Hexaware,"B.Tech, 60%",Aptitude + verbal + coding; software trainee roles,Corporate Employability Test,Beginner,Software Engineer,Final year
+Goldman Sachs India Hackathon (GSIH),Corporate,Goldman Sachs,B.Tech undergrad,CS + Quant 12-hr hackathon; PPI at Goldman Sachs; FinTech/systems focus,Corporate Hackathon,Advanced,Finance-Tech,3rd year
+Morgan Stanley Code2Win,Corporate,Morgan Stanley,"B.Tech, 60%+",Competitive coding contest; top performers get internship/FTE interviews,Corporate Hackathon,Advanced,Finance-Tech,3rd year
+Deutsche Bank HackVenture,Corporate,Deutsche Bank,B.Tech undergrad,FinTech coding challenge; shortlists for DB tech roles,Corporate Hackathon,Advanced,Finance-Tech,3rd year
+TCS CodeVita,Hackathon,TCS,B.Tech (all years),World's largest competitive programming contest; top scorer gets direct TCS Digital offer,Corporate Hackathon,Advanced,Software Engineer,3rd year
+Smart India Hackathon (SIH),Hackathon,MoE / Govt of India,All B.Tech students (teams of 6),National 36-hr hackathon on govt problem statements; ₹1L+ prize; highest MoE prestige,National/Govt Hackathon,Advanced,Software Engineer,1st-2nd year
+HackWithInfy,Hackathon,Infosys,"B.Tech/BE, 65%",Competitive programming; top rank → Specialist Programmer offer at ₹9.5 LPA,Corporate Hackathon,Intermediate,Software Engineer,3rd year
+HackOn With Amazon,Hackathon,Amazon India,B.Tech/MCA,GenAI/systems hackathon; PPI at Amazon; ₹2.25 lakh prize pool,Corporate Hackathon,Advanced,Software Engineer,3rd year
+Flipkart GRiD,Hackathon,Flipkart,B.Tech (all years),Software Dev / Infosec / Robotics tracks; PPO/internship for top performers,Corporate Hackathon,Advanced,Software Engineer,3rd year
+Microsoft Imagine Cup,Hackathon,Microsoft,Students worldwide; any B.Tech,Global product-building competition; finalists tracked by Microsoft recruiters; cash + Azure credits,Corporate Hackathon,Elite,Software Engineer,3rd year
+Adobe GenSolve,Hackathon,Adobe,"B.Tech, grad years 2025–27",Generative AI + Creative Cloud hackathon; internship/mentorship from Adobe India,Corporate Hackathon,Advanced,Software Engineer,3rd year
+Myntra HackerRamp,Hackathon,Myntra,B.Tech 3rd/4th year,Fashion-tech product hack; PPO opportunities; expert mentoring from Myntra engineers,Corporate Hackathon,Advanced,Software Engineer,3rd year
+Accenture Innovation Challenge,Hackathon,Accenture,All B.Tech/MBA students,Real-world case-based challenge; fast-track interview for ASE/System Associate,Corporate Hackathon,Intermediate,Software Engineer,3rd year
+IIT Bombay Techfest Hackathon,Hackathon,IIT Bombay,All students,Asia's largest college tech fest; industry-sponsored PS from Google/Microsoft/Qualcomm,National/Govt Hackathon,Intermediate,Software Engineer,1st-2nd year
+TechGig Code Gladiators,Hackathon,TechGig,Students & professionals,India's largest coding contest; ₹20L+ prizes; annual; great for competitive coding exposure,Corporate Hackathon,Advanced,Software Engineer,3rd year
+Optum Hack2Hire,Hackathon,UnitedHealth/Optum,B.Tech final year,HealthTech hackathon; top performers get direct job offers at Optum India,Corporate Hackathon,Intermediate,Software Engineer,Final year
+HackAI / Google for Developers,Hackathon,Google / MLH,All B.Tech students,"AI/ML themed hackathons; healthcare, agri, fintech; judges from IITs and AI companies",Corporate Hackathon,Intermediate,Software Engineer,1st-2nd year
+AWS DeepRacer / Build On India,Hackathon,Amazon Web Services,All students,Cloud/ML challenge; AWS credits + job referrals; mirrors real Amazon interview expectations,Corporate Hackathon,Intermediate,Software Engineer,1st-2nd year
+Univ.AI Hackathon / HackerEarth,Hackathon,Various,All B.Tech,Platform-hosted ML/AI contests; regular cadence year-round; good for portfolio building,Competitive Coding Platform,Intermediate,Software Engineer,1st-2nd year
+Unstop / D2C Competitions,Hackathon,Unstop platform,All B.Tech,"Aggregator of 100s of company-hosted hackathons; Deloitte, PwC, EY, Bajaj Finserv etc.",Competitive Coding Platform,Beginner,Software Engineer,1st-2nd year
+CodeChef SnackDown / Starters,Hackathon,CodeChef,All students,ICPC-style team coding contest; global ranking; strong competitive programming resume value,Competitive Coding Platform,Advanced,Software Engineer,1st-2nd year
+Codeforces / LeetCode Contests,Hackathon,CF / LC,All,Online competitive programming rounds; ratings used by top product companies for shortlisting,Competitive Coding Platform,Elite,Software Engineer,1st-2nd year
+ICPC — ACM ICPC,Hackathon,ICPC Foundation,B.Tech <5 yrs enrolled,World's most prestigious team CP contest; IIT/NIT qualification → Asia Regional → World Finals,Competitive Coding Platform,Elite,Software Engineer,3rd year
+NDA — National Defence Academy,Defence,UPSC,"12th pass, male, 16.5–19.5 yrs",Officer entry to Army/Navy/IAF straight from 12th; B.Tech students not target audience,Defence Service Exam,Intermediate,Defence Officer,1st-2nd year
+CDS — Combined Defence Services,Defence,UPSC,"Any degree, male, 19–24 yrs",Officer commission in Army/Navy/IAF; written + SSB; twice a year,Defence Service Exam,Advanced,Defence Officer,Final year
+AFCAT — Air Force Common Admission Test,Defence,Indian Air Force,"B.Tech (60% for Tech branch), 20–26 yrs",IAF officer entry (Flying/Technical/Ground Duty); EKT test for tech branch; twice a year,Defence Service Exam,Advanced,Defence Officer,Final year
+Army SSC Tech / TGC,Defence,Indian Army,"B.Tech 60%, relevant branch, 20–27 yrs",Short Service Commission; no written exam — direct SSB 5-day process; CSE/ECE/ME/Civil,Defence Service Exam,Intermediate,Defence Officer,Final year
+INET — Indian Navy Entrance Test,Defence,Indian Navy,"B.Tech 60%, 19.5–25 yrs",Navy officer entry (Technical/Executive); written + SSB; multiple entries per year,Defence Service Exam,Advanced,Defence Officer,Final year
+Indian Coast Guard Asst Commandant,Defence,Coast Guard,"B.Tech (any branch), 21–25 yrs",Written + PPT + SSB + medical; technical/general duty branches,Defence Service Exam,Advanced,Defence Officer,Final year
+SSB (Service Selection Board),Defence,MoD,Cleared CDS/AFCAT/TGC/INET,5-day personality/leadership test; not a standalone exam — gateway after written clearing,Defence Service Exam,Elite,Defence Officer,Final year
+GATE — Graduate Aptitude Test,Govt/Tech,IITs / IISc,"B.Tech / final year, no age limit","M.Tech at IITs/NITs + PSU recruitment (ONGC, NTPC, BHEL, ISRO, DRDO, GAIL, IOCL etc.); score valid 3 yrs",Technical Govt Exam,Elite,Govt Engineer,Final year
+UPSC IES / ESE,Govt/Tech,UPSC,"B.Tech (CE/ME/EE/E&T only), 21–30 yrs",Highest govt engineering post (Group A); Prelims + Mains + Interview; 474 vacancies 2026,Technical Govt Exam,Elite,Govt Engineer,Final year
+SSC JE — Junior Engineer,Govt/Tech,SSC,"B.Tech or Diploma, 18–32 yrs",Central govt JE posts in CPWD/CWC/MES/DFCC; Civil/EE/ME branches; written + DV,Technical Govt Exam,Intermediate,Govt Engineer,Final year
+RRB JE — Railway Junior Engineer,Govt/Tech,RRB / Indian Railways,"B.Tech (relevant branch), 18–33 yrs",Junior Engineer in Railways; CBT 1 + CBT 2; strong job security; ₹35–40k starting,Technical Govt Exam,Intermediate,Govt Engineer,Final year
+DRDO CEPTAM / SET,Govt/Tech,DRDO,"B.Tech (relevant), ≤28 yrs",Scientist B / Senior Technical Assistant; GATE score or dedicated SET; defence R&D,Technical Govt Exam,Elite,Researcher,Final year
+ISRO Scientist / Engineer SC,Govt/Tech,ISRO,"B.Tech 65%, ≤35 yrs",Space research/engineering; written test + interview; extremely competitive; top-tier career,Technical Govt Exam,Elite,Researcher,Final year
+BARC OCES/DGFS,Govt/Tech,BARC,"B.Tech 60%, ≤25 yrs",Nuclear research scientist/engineer; GATE score-based shortlisting + orientation + interview,Technical Govt Exam,Elite,Researcher,Final year
+BHEL ET — Engineer Trainee,Govt/Tech,BHEL,"B.Tech 60%, GATE score preferred",PSU Engineer Trainee; GATE score shortlisting + GD/interview; ₹40–50k+ CTC,PSU Recruitment,Advanced,Govt Engineer,Final year
+ONGC GT — Graduate Trainee,Govt/Tech,ONGC,"B.Tech (relevant), GATE score",Oil & gas PSU; GATE score for shortlisting; interview; ₹12–16 LPA CTC,PSU Recruitment,Advanced,Govt Engineer,Final year
+NTPC ET,Govt/Tech,NTPC,"B.Tech (EE/ME/Civil/EC), GATE score",Power sector PSU; GATE shortlisting + GD/interview; ₹10–14 LPA,PSU Recruitment,Advanced,Govt Engineer,Final year
+HPCL/BPCL/IOCL GT,Govt/Tech,Oil PSUs,"B.Tech (relevant), GATE score",Petroleum/refinery PSU Engineer; GATE shortlisting; ₹12–18 LPA,PSU Recruitment,Advanced,Govt Engineer,Final year
+PGCIL (PowerGrid) ET,Govt/Tech,PowerGrid India,"B.Tech EE/EC, GATE score",Power transmission PSU; GATE shortlisting + interview; ₹10–13 LPA,PSU Recruitment,Advanced,Govt Engineer,Final year
+AAI Junior Executive,Govt/Tech,Airports Authority,"B.Tech (EC/EE/IT/CS/Civil), 27 yrs",Airport systems & ATC support; online test + interview; ₹40k+ in-hand,PSU Recruitment,Intermediate,Govt Engineer,Final year
+CAT — Common Admission Test,Banking/MBA,IIMs,"Any grad 50% (Gen), no age bar",Premier MBA; 99+ %ile for IIM-A/B/C; VARC + DILR + QA; B.Tech has Quant advantage,MBA Entrance,Elite,Manager,Final year
+XAT — Xavier Aptitude Test,Banking/MBA,XLRI Jamshedpur,"Any grad, no age bar",XLRI/XIMB/GIM MBA entry; has Decision Making section unique to XAT; 90+ %ile target,MBA Entrance,Elite,Manager,Final year
+SNAP — Symbiosis National Test,Banking/MBA,Symbiosis,Any grad 50%,MBA entry to 16 Symbiosis institutes; 3 attempts allowed; 85+ %ile target for SIBM Pune,MBA Entrance,Advanced,Manager,Final year
+MAT — Management Aptitude Test,Banking/MBA,AIMA,Any grad,Accepted by 600+ B-schools; 4 times/year; relatively easier; useful as backup MBA exam,MBA Entrance,Intermediate,Manager,Final year
+IBPS PO,Banking/MBA,IBPS,"Any grad 60%, 20–30 yrs",Probationary Officer in 19 PSBs; Prelims + Mains + Interview; ₹7–10 LPA CTC,Banking Exam,Advanced,Banker,Final year
+SBI PO,Banking/MBA,State Bank of India,"Any grad, 21–30 yrs",Most prestigious bank PO exam; Group Exercise + Interview stage; strong brand + growth,Banking Exam,Advanced,Banker,Final year
+IBPS Clerk,Banking/MBA,IBPS,"Any grad, 20–28 yrs",Clerical cadre in PSBs; Prelims + Mains (no interview); ₹4–6 LPA; good fallback,Banking Exam,Intermediate,Banker,Final year
+RBI Grade B Officer,Banking/MBA,Reserve Bank of India,"Any grad 60%, 21–30 yrs",Apex bank officer; Phase 1 + Phase 2 + Interview; ₹20+ LPA CTC; most coveted bank exam,Banking Exam,Elite,Banker,Post-graduation
+NABARD Grade A/B,Banking/MBA,NABARD,"Any grad / B.Tech, 30 yrs (Grade A)",Agriculture development bank; specialist streams for engineers; ₹12–18 LPA,Banking Exam,Advanced,Banker,Final year
+LIC AAO,Banking/MBA,LIC of India,"Any grad, 21–30 yrs",Insurance sector officer; written + interview; good stability; ₹10–14 LPA,Banking Exam,Advanced,Banker,Final year
+SEBI Grade A Officer,Banking/MBA,SEBI,"Any grad 60%, 30 yrs",Securities market regulator; IT stream available for B.Tech; Phase 1 + Phase 2 + Interview,Banking Exam,Elite,Finance-Tech,Final year

@@ -1,0 +1,532 @@
+{
+  "Corporate_Employability_Test": [
+    {
+      "name": "TCS NQT",
+      "path": "Corporate_Employability_Test/TCS_NQT/README.md",
+      "difficulty": "Beginner",
+      "career_path": "Software Engineer",
+      "when_to_attempt": "Final year",
+      "organiser": "TCS"
+    },
+    {
+      "name": "Infosys InfyTQ",
+      "path": "Corporate_Employability_Test/Infosys_InfyTQ/README.md",
+      "difficulty": "Intermediate",
+      "career_path": "Software Engineer",
+      "when_to_attempt": "3rd year",
+      "organiser": "Infosys"
+    },
+    {
+      "name": "Wipro NLTH",
+      "path": "Corporate_Employability_Test/Wipro_NLTH/README.md",
+      "difficulty": "Beginner",
+      "career_path": "Software Engineer",
+      "when_to_attempt": "Final year",
+      "organiser": "Wipro"
+    },
+    {
+      "name": "Cognizant GenC / GenC Next",
+      "path": "Corporate_Employability_Test/Cognizant_GenC_GenC_Next/README.md",
+      "difficulty": "Beginner",
+      "career_path": "Software Engineer",
+      "when_to_attempt": "Final year",
+      "organiser": "Cognizant"
+    },
+    {
+      "name": "Accenture Hiring Challenge",
+      "path": "Corporate_Employability_Test/Accenture_Hiring_Challenge/README.md",
+      "difficulty": "Intermediate",
+      "career_path": "Software Engineer",
+      "when_to_attempt": "Final year",
+      "organiser": "Accenture"
+    },
+    {
+      "name": "HCL TechBee / LEAP",
+      "path": "Corporate_Employability_Test/HCL_TechBee_LEAP/README.md",
+      "difficulty": "Beginner",
+      "career_path": "Software Engineer",
+      "when_to_attempt": "Final year",
+      "organiser": "HCLTech"
+    },
+    {
+      "name": "Tech Mahindra SMART Hiring",
+      "path": "Corporate_Employability_Test/Tech_Mahindra_SMART_Hiring/README.md",
+      "difficulty": "Beginner",
+      "career_path": "Software Engineer",
+      "when_to_attempt": "Final year",
+      "organiser": "Tech Mahindra"
+    },
+    {
+      "name": "Capgemini Game Changer",
+      "path": "Corporate_Employability_Test/Capgemini_Game_Changer/README.md",
+      "difficulty": "Beginner",
+      "career_path": "Software Engineer",
+      "when_to_attempt": "Final year",
+      "organiser": "Capgemini"
+    },
+    {
+      "name": "L&T Infotech (LTIMindtree) NTA",
+      "path": "Corporate_Employability_Test/LT_Infotech_LTIMindtree_NTA/README.md",
+      "difficulty": "Beginner",
+      "career_path": "Software Engineer",
+      "when_to_attempt": "Final year",
+      "organiser": "LTIMindtree"
+    },
+    {
+      "name": "Mphasis Next-Gen Hiring",
+      "path": "Corporate_Employability_Test/Mphasis_Next_Gen_Hiring/README.md",
+      "difficulty": "Beginner",
+      "career_path": "Software Engineer",
+      "when_to_attempt": "Final year",
+      "organiser": "Mphasis"
+    },
+    {
+      "name": "Hexaware Hiring Test",
+      "path": "Corporate_Employability_Test/Hexaware_Hiring_Test/README.md",
+      "difficulty": "Beginner",
+      "career_path": "Software Engineer",
+      "when_to_attempt": "Final year",
+      "organiser": "Hexaware"
+    }
+  ],
+  "Corporate_Hackathon": [
+    {
+      "name": "Goldman Sachs India Hackathon (GSIH)",
+      "path": "Corporate_Hackathon/Goldman_Sachs_India_Hackathon_GSIH/README.md",
+      "difficulty": "Advanced",
+      "career_path": "Finance-Tech",
+      "when_to_attempt": "3rd year",
+      "organiser": "Goldman Sachs"
+    },
+    {
+      "name": "Morgan Stanley Code2Win",
+      "path": "Corporate_Hackathon/Morgan_Stanley_Code2Win/README.md",
+      "difficulty": "Advanced",
+      "career_path": "Finance-Tech",
+      "when_to_attempt": "3rd year",
+      "organiser": "Morgan Stanley"
+    },
+    {
+      "name": "Deutsche Bank HackVenture",
+      "path": "Corporate_Hackathon/Deutsche_Bank_HackVenture/README.md",
+      "difficulty": "Advanced",
+      "career_path": "Finance-Tech",
+      "when_to_attempt": "3rd year",
+      "organiser": "Deutsche Bank"
+    },
+    {
+      "name": "TCS CodeVita",
+      "path": "Corporate_Hackathon/TCS_CodeVita/README.md",
+      "difficulty": "Advanced",
+      "career_path": "Software Engineer",
+      "when_to_attempt": "3rd year",
+      "organiser": "TCS"
+    },
+    {
+      "name": "HackWithInfy",
+      "path": "Corporate_Hackathon/HackWithInfy/README.md",
+      "difficulty": "Intermediate",
+      "career_path": "Software Engineer",
+      "when_to_attempt": "3rd year",
+      "organiser": "Infosys"
+    },
+    {
+      "name": "HackOn With Amazon",
+      "path": "Corporate_Hackathon/HackOn_With_Amazon/README.md",
+      "difficulty": "Advanced",
+      "career_path": "Software Engineer",
+      "when_to_attempt": "3rd year",
+      "organiser": "Amazon India"
+    },
+    {
+      "name": "Flipkart GRiD",
+      "path": "Corporate_Hackathon/Flipkart_GRiD/README.md",
+      "difficulty": "Advanced",
+      "career_path": "Software Engineer",
+      "when_to_attempt": "3rd year",
+      "organiser": "Flipkart"
+    },
+    {
+      "name": "Microsoft Imagine Cup",
+      "path": "Corporate_Hackathon/Microsoft_Imagine_Cup/README.md",
+      "difficulty": "Elite",
+      "career_path": "Software Engineer",
+      "when_to_attempt": "3rd year",
+      "organiser": "Microsoft"
+    },
+    {
+      "name": "Adobe GenSolve",
+      "path": "Corporate_Hackathon/Adobe_GenSolve/README.md",
+      "difficulty": "Advanced",
+      "career_path": "Software Engineer",
+      "when_to_attempt": "3rd year",
+      "organiser": "Adobe"
+    },
+    {
+      "name": "Myntra HackerRamp",
+      "path": "Corporate_Hackathon/Myntra_HackerRamp/README.md",
+      "difficulty": "Advanced",
+      "career_path": "Software Engineer",
+      "when_to_attempt": "3rd year",
+      "organiser": "Myntra"
+    },
+    {
+      "name": "Accenture Innovation Challenge",
+      "path": "Corporate_Hackathon/Accenture_Innovation_Challenge/README.md",
+      "difficulty": "Intermediate",
+      "career_path": "Software Engineer",
+      "when_to_attempt": "3rd year",
+      "organiser": "Accenture"
+    },
+    {
+      "name": "TechGig Code Gladiators",
+      "path": "Corporate_Hackathon/TechGig_Code_Gladiators/README.md",
+      "difficulty": "Advanced",
+      "career_path": "Software Engineer",
+      "when_to_attempt": "3rd year",
+      "organiser": "TechGig"
+    },
+    {
+      "name": "Optum Hack2Hire",
+      "path": "Corporate_Hackathon/Optum_Hack2Hire/README.md",
+      "difficulty": "Intermediate",
+      "career_path": "Software Engineer",
+      "when_to_attempt": "Final year",
+      "organiser": "UnitedHealth/Optum"
+    },
+    {
+      "name": "HackAI / Google for Developers",
+      "path": "Corporate_Hackathon/HackAI_Google_for_Developers/README.md",
+      "difficulty": "Intermediate",
+      "career_path": "Software Engineer",
+      "when_to_attempt": "1st-2nd year",
+      "organiser": "Google / MLH"
+    },
+    {
+      "name": "AWS DeepRacer / Build On India",
+      "path": "Corporate_Hackathon/AWS_DeepRacer_Build_On_India/README.md",
+      "difficulty": "Intermediate",
+      "career_path": "Software Engineer",
+      "when_to_attempt": "1st-2nd year",
+      "organiser": "Amazon Web Services"
+    }
+  ],
+  "NationalGovt_Hackathon": [
+    {
+      "name": "Smart India Hackathon (SIH)",
+      "path": "NationalGovt_Hackathon/Smart_India_Hackathon_SIH/README.md",
+      "difficulty": "Advanced",
+      "career_path": "Software Engineer",
+      "when_to_attempt": "1st-2nd year",
+      "organiser": "MoE / Govt of India"
+    },
+    {
+      "name": "IIT Bombay Techfest Hackathon",
+      "path": "NationalGovt_Hackathon/IIT_Bombay_Techfest_Hackathon/README.md",
+      "difficulty": "Intermediate",
+      "career_path": "Software Engineer",
+      "when_to_attempt": "1st-2nd year",
+      "organiser": "IIT Bombay"
+    }
+  ],
+  "Competitive_Coding_Platform": [
+    {
+      "name": "Univ.AI Hackathon / HackerEarth",
+      "path": "Competitive_Coding_Platform/UnivAI_Hackathon_HackerEarth/README.md",
+      "difficulty": "Intermediate",
+      "career_path": "Software Engineer",
+      "when_to_attempt": "1st-2nd year",
+      "organiser": "Various"
+    },
+    {
+      "name": "Unstop / D2C Competitions",
+      "path": "Competitive_Coding_Platform/Unstop_D2C_Competitions/README.md",
+      "difficulty": "Beginner",
+      "career_path": "Software Engineer",
+      "when_to_attempt": "1st-2nd year",
+      "organiser": "Unstop platform"
+    },
+    {
+      "name": "CodeChef SnackDown / Starters",
+      "path": "Competitive_Coding_Platform/CodeChef_SnackDown_Starters/README.md",
+      "difficulty": "Advanced",
+      "career_path": "Software Engineer",
+      "when_to_attempt": "1st-2nd year",
+      "organiser": "CodeChef"
+    },
+    {
+      "name": "Codeforces / LeetCode Contests",
+      "path": "Competitive_Coding_Platform/Codeforces_LeetCode_Contests/README.md",
+      "difficulty": "Elite",
+      "career_path": "Software Engineer",
+      "when_to_attempt": "1st-2nd year",
+      "organiser": "CF / LC"
+    },
+    {
+      "name": "ICPC \u2014 ACM ICPC",
+      "path": "Competitive_Coding_Platform/ICPC_ACM_ICPC/README.md",
+      "difficulty": "Elite",
+      "career_path": "Software Engineer",
+      "when_to_attempt": "3rd year",
+      "organiser": "ICPC Foundation"
+    }
+  ],
+  "Defence_Service_Exam": [
+    {
+      "name": "NDA \u2014 National Defence Academy",
+      "path": "Defence_Service_Exam/NDA_National_Defence_Academy/README.md",
+      "difficulty": "Intermediate",
+      "career_path": "Defence Officer",
+      "when_to_attempt": "1st-2nd year",
+      "organiser": "UPSC"
+    },
+    {
+      "name": "CDS \u2014 Combined Defence Services",
+      "path": "Defence_Service_Exam/CDS_Combined_Defence_Services/README.md",
+      "difficulty": "Advanced",
+      "career_path": "Defence Officer",
+      "when_to_attempt": "Final year",
+      "organiser": "UPSC"
+    },
+    {
+      "name": "AFCAT \u2014 Air Force Common Admission Test",
+      "path": "Defence_Service_Exam/AFCAT_Air_Force_Common_Admission_Test/README.md",
+      "difficulty": "Advanced",
+      "career_path": "Defence Officer",
+      "when_to_attempt": "Final year",
+      "organiser": "Indian Air Force"
+    },
+    {
+      "name": "Army SSC Tech / TGC",
+      "path": "Defence_Service_Exam/Army_SSC_Tech_TGC/README.md",
+      "difficulty": "Intermediate",
+      "career_path": "Defence Officer",
+      "when_to_attempt": "Final year",
+      "organiser": "Indian Army"
+    },
+    {
+      "name": "INET \u2014 Indian Navy Entrance Test",
+      "path": "Defence_Service_Exam/INET_Indian_Navy_Entrance_Test/README.md",
+      "difficulty": "Advanced",
+      "career_path": "Defence Officer",
+      "when_to_attempt": "Final year",
+      "organiser": "Indian Navy"
+    },
+    {
+      "name": "Indian Coast Guard Asst Commandant",
+      "path": "Defence_Service_Exam/Indian_Coast_Guard_Asst_Commandant/README.md",
+      "difficulty": "Advanced",
+      "career_path": "Defence Officer",
+      "when_to_attempt": "Final year",
+      "organiser": "Coast Guard"
+    },
+    {
+      "name": "SSB (Service Selection Board)",
+      "path": "Defence_Service_Exam/SSB_Service_Selection_Board/README.md",
+      "difficulty": "Elite",
+      "career_path": "Defence Officer",
+      "when_to_attempt": "Final year",
+      "organiser": "MoD"
+    }
+  ],
+  "Technical_Govt_Exam": [
+    {
+      "name": "GATE \u2014 Graduate Aptitude Test",
+      "path": "Technical_Govt_Exam/GATE_Graduate_Aptitude_Test/README.md",
+      "difficulty": "Elite",
+      "career_path": "Govt Engineer",
+      "when_to_attempt": "Final year",
+      "organiser": "IITs / IISc"
+    },
+    {
+      "name": "UPSC IES / ESE",
+      "path": "Technical_Govt_Exam/UPSC_IES_ESE/README.md",
+      "difficulty": "Elite",
+      "career_path": "Govt Engineer",
+      "when_to_attempt": "Final year",
+      "organiser": "UPSC"
+    },
+    {
+      "name": "SSC JE \u2014 Junior Engineer",
+      "path": "Technical_Govt_Exam/SSC_JE_Junior_Engineer/README.md",
+      "difficulty": "Intermediate",
+      "career_path": "Govt Engineer",
+      "when_to_attempt": "Final year",
+      "organiser": "SSC"
+    },
+    {
+      "name": "RRB JE \u2014 Railway Junior Engineer",
+      "path": "Technical_Govt_Exam/RRB_JE_Railway_Junior_Engineer/README.md",
+      "difficulty": "Intermediate",
+      "career_path": "Govt Engineer",
+      "when_to_attempt": "Final year",
+      "organiser": "RRB / Indian Railways"
+    },
+    {
+      "name": "DRDO CEPTAM / SET",
+      "path": "Technical_Govt_Exam/DRDO_CEPTAM_SET/README.md",
+      "difficulty": "Elite",
+      "career_path": "Researcher",
+      "when_to_attempt": "Final year",
+      "organiser": "DRDO"
+    },
+    {
+      "name": "ISRO Scientist / Engineer SC",
+      "path": "Technical_Govt_Exam/ISRO_Scientist_Engineer_SC/README.md",
+      "difficulty": "Elite",
+      "career_path": "Researcher",
+      "when_to_attempt": "Final year",
+      "organiser": "ISRO"
+    },
+    {
+      "name": "BARC OCES/DGFS",
+      "path": "Technical_Govt_Exam/BARC_OCESDGFS/README.md",
+      "difficulty": "Elite",
+      "career_path": "Researcher",
+      "when_to_attempt": "Final year",
+      "organiser": "BARC"
+    }
+  ],
+  "PSU_Recruitment": [
+    {
+      "name": "BHEL ET \u2014 Engineer Trainee",
+      "path": "PSU_Recruitment/BHEL_ET_Engineer_Trainee/README.md",
+      "difficulty": "Advanced",
+      "career_path": "Govt Engineer",
+      "when_to_attempt": "Final year",
+      "organiser": "BHEL"
+    },
+    {
+      "name": "ONGC GT \u2014 Graduate Trainee",
+      "path": "PSU_Recruitment/ONGC_GT_Graduate_Trainee/README.md",
+      "difficulty": "Advanced",
+      "career_path": "Govt Engineer",
+      "when_to_attempt": "Final year",
+      "organiser": "ONGC"
+    },
+    {
+      "name": "NTPC ET",
+      "path": "PSU_Recruitment/NTPC_ET/README.md",
+      "difficulty": "Advanced",
+      "career_path": "Govt Engineer",
+      "when_to_attempt": "Final year",
+      "organiser": "NTPC"
+    },
+    {
+      "name": "HPCL/BPCL/IOCL GT",
+      "path": "PSU_Recruitment/HPCLBPCLIOCL_GT/README.md",
+      "difficulty": "Advanced",
+      "career_path": "Govt Engineer",
+      "when_to_attempt": "Final year",
+      "organiser": "Oil PSUs"
+    },
+    {
+      "name": "PGCIL (PowerGrid) ET",
+      "path": "PSU_Recruitment/PGCIL_PowerGrid_ET/README.md",
+      "difficulty": "Advanced",
+      "career_path": "Govt Engineer",
+      "when_to_attempt": "Final year",
+      "organiser": "PowerGrid India"
+    },
+    {
+      "name": "AAI Junior Executive",
+      "path": "PSU_Recruitment/AAI_Junior_Executive/README.md",
+      "difficulty": "Intermediate",
+      "career_path": "Govt Engineer",
+      "when_to_attempt": "Final year",
+      "organiser": "Airports Authority"
+    }
+  ],
+  "MBA_Entrance": [
+    {
+      "name": "CAT \u2014 Common Admission Test",
+      "path": "MBA_Entrance/CAT_Common_Admission_Test/README.md",
+      "difficulty": "Elite",
+      "career_path": "Manager",
+      "when_to_attempt": "Final year",
+      "organiser": "IIMs"
+    },
+    {
+      "name": "XAT \u2014 Xavier Aptitude Test",
+      "path": "MBA_Entrance/XAT_Xavier_Aptitude_Test/README.md",
+      "difficulty": "Elite",
+      "career_path": "Manager",
+      "when_to_attempt": "Final year",
+      "organiser": "XLRI Jamshedpur"
+    },
+    {
+      "name": "SNAP \u2014 Symbiosis National Test",
+      "path": "MBA_Entrance/SNAP_Symbiosis_National_Test/README.md",
+      "difficulty": "Advanced",
+      "career_path": "Manager",
+      "when_to_attempt": "Final year",
+      "organiser": "Symbiosis"
+    },
+    {
+      "name": "MAT \u2014 Management Aptitude Test",
+      "path": "MBA_Entrance/MAT_Management_Aptitude_Test/README.md",
+      "difficulty": "Intermediate",
+      "career_path": "Manager",
+      "when_to_attempt": "Final year",
+      "organiser": "AIMA"
+    }
+  ],
+  "Banking_Exam": [
+    {
+      "name": "IBPS PO",
+      "path": "Banking_Exam/IBPS_PO/README.md",
+      "difficulty": "Advanced",
+      "career_path": "Banker",
+      "when_to_attempt": "Final year",
+      "organiser": "IBPS"
+    },
+    {
+      "name": "SBI PO",
+      "path": "Banking_Exam/SBI_PO/README.md",
+      "difficulty": "Advanced",
+      "career_path": "Banker",
+      "when_to_attempt": "Final year",
+      "organiser": "State Bank of India"
+    },
+    {
+      "name": "IBPS Clerk",
+      "path": "Banking_Exam/IBPS_Clerk/README.md",
+      "difficulty": "Intermediate",
+      "career_path": "Banker",
+      "when_to_attempt": "Final year",
+      "organiser": "IBPS"
+    },
+    {
+      "name": "RBI Grade B Officer",
+      "path": "Banking_Exam/RBI_Grade_B_Officer/README.md",
+      "difficulty": "Elite",
+      "career_path": "Banker",
+      "when_to_attempt": "Post-graduation",
+      "organiser": "Reserve Bank of India"
+    },
+    {
+      "name": "NABARD Grade A/B",
+      "path": "Banking_Exam/NABARD_Grade_AB/README.md",
+      "difficulty": "Advanced",
+      "career_path": "Banker",
+      "when_to_attempt": "Final year",
+      "organiser": "NABARD"
+    },
+    {
+      "name": "LIC AAO",
+      "path": "Banking_Exam/LIC_AAO/README.md",
+      "difficulty": "Advanced",
+      "career_path": "Banker",
+      "when_to_attempt": "Final year",
+      "organiser": "LIC of India"
+    },
+    {
+      "name": "SEBI Grade A Officer",
+      "path": "Banking_Exam/SEBI_Grade_A_Officer/README.md",
+      "difficulty": "Elite",
+      "career_path": "Finance-Tech",
+      "when_to_attempt": "Final year",
+      "organiser": "SEBI"
+    }
+  ]
+}
